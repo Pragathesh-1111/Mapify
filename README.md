@@ -156,4 +156,4 @@ https://www.openstreetmap.org
 
 ## License
 
-This project is licensed under the MIT License.
+This project is made for learning purposes only.
