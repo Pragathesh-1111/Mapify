@@ -2,6 +2,7 @@
 
 A location-based workout tracking application built with vanilla JavaScript and the Leaflet mapping library. The application allows users to log running, cycling, and walking workouts directly on an interactive map while persisting data using local storage.
 
+# Live website - https://pragathesh-1111.github.io/Mapify/
 ---
 
 ## Overview
