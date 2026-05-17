@@ -1,4 +1,4 @@
-# Mapty — Workout Tracking Application
+# Mapify — Workout Tracking Application
 
 A location-based workout tracking application built with vanilla JavaScript and the Leaflet mapping library. The application allows users to log running, cycling, and walking workouts directly on an interactive map while persisting data using local storage.
 
@@ -6,7 +6,7 @@ A location-based workout tracking application built with vanilla JavaScript and 
 
 ## Overview
 
-Mapty is a front-end project focused on practicing modern JavaScript development concepts including:
+Mapify is a front-end project focused on practicing modern JavaScript development concepts including:
 
 - Object-Oriented Programming (OOP)
 - ES6 Classes & Inheritance
